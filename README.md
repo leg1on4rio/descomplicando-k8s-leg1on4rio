@@ -4,11 +4,11 @@ estudos sobre k8s na linuxtips com o badtux
 
 ## Requerimentos
 
-<p>Instalar kubectl https://kubernetes.io/docs/tasks/tools/</p>
+Instalar kubectl https://kubernetes.io/docs/tasks/tools/
 
-<p>Instalar docker desktop (windows version) https://www.docker.com/products/docker-desktop/</p>
+Instalar docker desktop (windows version) https://www.docker.com/products/docker-desktop/
 
-<p>Instalar kind https://kind.sigs.k8s.io/docs/user/quick-start/</p>
+Instalar kind https://kind.sigs.k8s.io/docs/user/quick-start/
 
 ## Instruções para criar cluster no kind
 
